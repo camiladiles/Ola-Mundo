@@ -1,2 +1,4 @@
-# Ola Mundo
- teste repositorio Git e Github
+# Olá, Mundo
+Primeiro repositório do curos de Git e Github
+
+Repositório criado durante o curso.

@@ -61,4 +61,31 @@ Aqui vou testar a linguagem Markdown aprendida no curso em video de Git e GitHub
 
 ->  Tabelas:
 
+Number | Name | Achievement
+---|---|---
+01 | Camila | 100%
+02 | Sandra | 97%
+03 | Carol | 95%
+
+-> Olhar comando: Para ver o coomando coloca assim - `comand.getElementByld()` 
+
+-> Trechos de programas como por exemplo: 
+
+```
+numero = int(input("Digite um número inteiro:  "))
+
+#Formula para ver se é + ou -
+if numero >=0:
+  print ("positivo")
+else:
+  print ("negativo")
+```
+
+-> Emojis: para criar coloca 🎱 dos pontos e alguma letra e aparece ou olha nesse repositorio [Aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
+
+
+
+
+
 

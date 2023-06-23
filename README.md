@@ -13,7 +13,7 @@ Esta linha eu alterei diretamente no site do GitHub!
 Aqui vou testar a linguagem Markdown aprendida no curso em video de Git e GitHub do Gustavo Guanabara:
 
 Titulo: 
-#Titulo
+# Titulo
 
 NEGRITO: 2** ou 2__ no inicio e final do texto: **negrito** ou __negrito também__
 ITALICO: 1* ou 1_ no inicio e final do texto: *italico* ou _italico também_

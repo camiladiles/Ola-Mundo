@@ -83,9 +83,7 @@ else:
 
 -> Emojis: para criar coloca 🎱 dos pontos e alguma letra e aparece ou olha nesse repositorio [Aqui](https://github.com/ikatyang/emoji-cheat-sheet)
 
-
-
-
+-> Marcando pessoas: Aprendi tudo isso aqui do Markdown pelo curso gratis do [@gustavoguanabara](https://github.com/gustavoguanabara) 
 
 
 
